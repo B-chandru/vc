@@ -61,7 +61,7 @@ body {
 
 @media screen and (max-width: 378px) {
   .container {
-    width: 336px;
+    width: 280px;
   }
   .container h1 {
     font-size: x-large;
